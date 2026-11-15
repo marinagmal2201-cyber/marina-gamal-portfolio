@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="ELV systems network illustration">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#202530"/></pattern></defs>
+  <rect width="600" height="400" fill="#12151b"/><rect width="600" height="400" fill="url(#g)"/>
+  <g stroke="#f5a524" stroke-width="2" stroke-dasharray="6 5" fill="none">
+    <path d="M300 200L110 90M300 200L110 310M300 200L490 90M300 200L490 310M300 200V70"/>
+  </g>
+  <rect x="262" y="150" width="76" height="100" rx="8" fill="#181c24" stroke="#e5484d" stroke-width="2"/>
+  <g stroke="#e5484d" stroke-width="2"><path d="M274 172h52M274 192h52M274 212h52M274 232h52"/></g>
+  <g font-family="monospace" font-size="11" text-anchor="middle" fill="#98a0b0">
+    <rect x="80" y="70" width="60" height="40" rx="6" fill="#181c24" stroke="#8892a6" stroke-width="2"/><circle cx="110" cy="90" r="9" fill="none" stroke="#e8eaf0" stroke-width="2"/>
+    <text x="110" y="128">CCTV</text>
+    <rect x="80" y="290" width="60" height="40" rx="6" fill="#181c24" stroke="#8892a6" stroke-width="2"/><path d="M95 315a15 15 0 0 1 30 0M101 315a9 9 0 0 1 18 0" fill="none" stroke="#e8eaf0" stroke-width="2"/>
+    <text x="110" y="348">Wi-Fi</text>
+    <rect x="460" y="70" width="60" height="40" rx="6" fill="#181c24" stroke="#8892a6" stroke-width="2"/><rect x="480" y="80" width="20" height="20" rx="3" fill="none" stroke="#e8eaf0" stroke-width="2"/>
+    <text x="490" y="128">Access</text>
+    <rect x="460" y="290" width="60" height="40" rx="6" fill="#181c24" stroke="#8892a6" stroke-width="2"/><path d="M475 310h30M475 318h30" stroke="#e8eaf0" stroke-width="2"/>
+    <text x="490" y="348">PA / Data</text>
+    <rect x="270" y="38" width="60" height="32" rx="6" fill="#181c24" stroke="#8892a6" stroke-width="2"/>
+    <text x="300" y="30">Fiber backbone</text>
+    <text x="300" y="272" fill="#e5484d">RACK</text>
+  </g>
+  <rect x="430" y="346" width="150" height="34" fill="#12151b" stroke="#5b6577"/>
+  <text x="440" y="361" fill="#98a0b0" font-family="monospace" font-size="10">ELV SYSTEMS</text>
+  <text x="440" y="374" fill="#e8eaf0" font-family="monospace" font-size="10">SYSTEM OVERVIEW</text>
+</svg>

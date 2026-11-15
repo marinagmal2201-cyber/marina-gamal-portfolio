@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Public address speaker zoning illustration">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#202530"/></pattern></defs>
+  <rect width="600" height="400" fill="#12151b"/><rect width="600" height="400" fill="url(#g)"/>
+  <rect x="50" y="50" width="500" height="280" fill="none" stroke="#8892a6" stroke-width="3"/>
+  <rect x="50" y="50" width="190" height="280" fill="#e5484d" fill-opacity="0.08"/>
+  <rect x="240" y="50" width="170" height="280" fill="#f5a524" fill-opacity="0.08"/>
+  <rect x="410" y="50" width="140" height="280" fill="#8892a6" fill-opacity="0.1"/>
+  <path d="M240 50V330M410 50V330" stroke="#8892a6" stroke-width="3" stroke-dasharray="10 6"/>
+  <g fill="none" stroke-dasharray="4 4" stroke-width="1.5">
+    <circle cx="110" cy="120" r="48" stroke="#e5484d"/><circle cx="110" cy="260" r="48" stroke="#e5484d"/><circle cx="190" cy="190" r="48" stroke="#e5484d"/>
+    <circle cx="325" cy="120" r="48" stroke="#f5a524"/><circle cx="325" cy="260" r="48" stroke="#f5a524"/>
+    <circle cx="480" cy="190" r="48" stroke="#8892a6"/>
+  </g>
+  <g fill="#e8eaf0"><circle cx="110" cy="120" r="5"/><circle cx="110" cy="260" r="5"/><circle cx="190" cy="190" r="5"/><circle cx="325" cy="120" r="5"/><circle cx="325" cy="260" r="5"/><circle cx="480" cy="190" r="5"/></g>
+  <g font-family="monospace" font-size="13" font-weight="700" text-anchor="middle">
+    <text x="145" y="80" fill="#e5484d">ZONE 1</text><text x="325" y="80" fill="#f5a524">ZONE 2</text><text x="480" y="80" fill="#98a0b0">ZONE 3</text>
+  </g>
+  <rect x="430" y="346" width="150" height="34" fill="#12151b" stroke="#5b6577"/>
+  <text x="440" y="361" fill="#98a0b0" font-family="monospace" font-size="10">PUBLIC ADDRESS</text>
+  <text x="440" y="374" fill="#e8eaf0" font-family="monospace" font-size="10">SPEAKER ZONING</text>
+</svg>

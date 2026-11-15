@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Data network riser diagram illustration">
+  <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#202530"/></pattern></defs>
+  <rect width="600" height="400" fill="#12151b"/><rect width="600" height="400" fill="url(#g)"/>
+  <g stroke="#8892a6" stroke-width="2"><path d="M60 100H400M60 170H400M60 240H400"/></g>
+  <path d="M130 310V70" stroke="#f5a524" stroke-width="3"/>
+  <g font-family="monospace" font-size="11" fill="#98a0b0">
+    <text x="410" y="104">FLOOR 3</text><text x="410" y="174">FLOOR 2</text><text x="410" y="244">FLOOR 1</text>
+  </g>
+  <g fill="#181c24" stroke="#e5484d" stroke-width="2">
+    <rect x="160" y="82" width="90" height="36" rx="5"/><rect x="160" y="152" width="90" height="36" rx="5"/><rect x="160" y="222" width="90" height="36" rx="5"/>
+  </g>
+  <g stroke="#f5a524" stroke-width="2"><path d="M130 100H160M130 170H160M130 240H160"/></g>
+  <g stroke="#e8eaf0" stroke-width="2"><path d="M172 94h8M172 100h8M172 106h8M190 94h8M190 100h8M190 106h8M208 94h8M208 100h8M208 106h8"/><path d="M172 164h8M172 170h8M172 176h8M190 164h8M190 170h8M190 176h8M208 164h8M208 170h8M208 176h8"/><path d="M172 234h8M172 240h8M172 246h8M190 234h8M190 240h8M190 246h8M208 234h8M208 240h8M208 246h8"/></g>
+  <g fill="none" stroke="#8892a6" stroke-width="1.5" stroke-dasharray="4 4"><path d="M250 100H330M250 170H330M250 240H330"/></g>
+  <g fill="#e8eaf0"><circle cx="340" cy="100" r="5"/><circle cx="360" cy="100" r="5"/><circle cx="340" cy="170" r="5"/><circle cx="360" cy="170" r="5"/><circle cx="340" cy="240" r="5"/><circle cx="360" cy="240" r="5"/></g>
+  <rect x="80" y="310" width="100" height="40" rx="6" fill="#181c24" stroke="#e5484d" stroke-width="2"/>
+  <text x="130" y="335" fill="#e5484d" font-family="monospace" font-size="12" text-anchor="middle">MDF</text>
+  <text x="140" y="60" fill="#f5a524" font-family="monospace" font-size="11">FIBER RISER</text>
+  <rect x="430" y="346" width="150" height="34" fill="#12151b" stroke="#5b6577"/>
+  <text x="440" y="361" fill="#98a0b0" font-family="monospace" font-size="10">DATA NETWORK</text>
+  <text x="440" y="374" fill="#e8eaf0" font-family="monospace" font-size="10">RISER DIAGRAM</text>
+</svg>
